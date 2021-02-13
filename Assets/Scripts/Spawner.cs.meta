@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0026b3f5c717eb24fbdae64e84998100
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BowlingBall: {fileID: -927199367670048503, guid: d0e4b885361fafe4c8fbc3d38b8ffc51,
+      type: 3}
+  - effect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

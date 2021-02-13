@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.liminalsdk.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Uni\\SIT 378 Team Project B\\Repository T3_2020\\LiminalVR2020t3\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "LiminalVR2020t3 [Testing]"
+        }
+      }
+    }
+  ]
+}
